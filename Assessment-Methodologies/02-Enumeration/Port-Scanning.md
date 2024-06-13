@@ -27,6 +27,7 @@ Insane mode : T5
 
 1) First, find open ports quickly : 
 `nmap -Pn -sS -p- -T4 192.31.214.3`
+
 `nmap -Pn -sU -p- -T4 192.31.214.3`
 
 2) Get more information on running services and operating system : 
@@ -39,6 +40,7 @@ Insane mode : T5
 
 List all scripts : 
 `ls -al /sur/share/nmap/scripts/`
+
 `ls -al /sur/share/nmap/scripts/ | grep -e "mongodb"`
 
 Display help to specific script : 
@@ -46,6 +48,7 @@ Display help to specific script :
 
 Execute scripts : 
 `nmap -sS -sV -sC -p- -T4 192.31.214.3`
+
 `nmap -sS -sV --script mongo-databases -p6421 -T4 192.31.214.3`
 
 # Nmap Ouput Formats
@@ -62,16 +65,25 @@ GREP format :
 # Import nmap XML file in Metasploit Framework
 
 `service postgresql start`
+
 `msfconsole`
+
 `msf6 > workspace -a pentest-1`
+
 `msf6 > workspace`
+
 `msf6 > db_status`
+
 `msf6 > db_import output.xml`
+
 `msf6 > hosts`
+
 `msf6 > services`
 
 # Use Nmap in Metasploit Framework
 
 `msf6 > db_nmap -Pn -sS -A 10.4.19.132`
+
 `msf6 > hosts`
+
 `msf6 > services`
