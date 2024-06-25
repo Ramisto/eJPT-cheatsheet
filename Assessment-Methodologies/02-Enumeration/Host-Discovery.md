@@ -1,18 +1,17 @@
 # ICMP
 
-`ping 192.168.1.1`
+`ping <target>`
 
-`fping -a -g 192.168.1.0/24 2>/dev/null`
-
+`fping -a -g <target> 2>/dev/null`
 
 # ARP
 
-`netdiscover -i eth0 -r 192.168.1.0/24`
+`netdiscover -i eth0 -r <target>`
 
 # Nmap (ping scan)
 
-`nmap -sn 192.168.1.0/24`
+`nmap -sn <target>`
 
-`nmap -sn 192.168.1.0/24 --send-ip`
+`nmap -sn <target> --send-ip`
 
 `nmap -sn -iL targets.txt`

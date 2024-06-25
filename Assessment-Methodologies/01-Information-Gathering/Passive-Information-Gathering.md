@@ -5,19 +5,8 @@
 `whois example.org`
 
 [Dnsdumpster](https://dnsdumpster.com/)
-[Netcraft](https://sitereport.netcraft.com/) 
 
-# Directories hidden from search engines
-
-`https://example.org/robots.txt`
-`https://example.org/sitemap.xml`
-`https://example.org/sitemaps.xml`
-
-# Web technologies being used
-
-Firefox add-ons :
-- [BuitWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/)
-- [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
+[Netcraft](https://sitereport.netcraft.com/)
 
 # Source code
 
@@ -27,12 +16,12 @@ Use website vacuum cleaner to read source code without interacting with the targ
 
 # Google Dorks
 
-Limit to particular domain and subdomain :
+Limit to particular domain and subdomain :  
 `site:example.org`
 
 `site:*.example.org`
 
-Limit particular word in url : 
+Limit particular word in url :  
 `inurl:admin`
 
 `inurl:auth_user_file.txt`
@@ -41,10 +30,10 @@ Limit particular word in url :
 
 `inurl:login`
 
-Limit particular word in title : 
+Limit particular word in title :  
 `intitle:index of`
 
-Limit particular type of file : 
+Limit particular type of file :  
 `filetype:xlsx`
 
 # Search Engines

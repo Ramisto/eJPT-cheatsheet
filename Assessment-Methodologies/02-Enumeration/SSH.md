@@ -1,12 +1,11 @@
 # Nmap
 
-`nmap --script ssh2-enum-algos -p 22 192.244.143.3`
+`nmap --script=ssh2-enum-algos -p 22 <target>`
 
-`nmap --script ssh-hostkey --script-args ssh_hotkey=full -p 22 192.244.143.3`
+`nmap --script=ssh-hostkey --script-args ssh_hotkey=full -p 22 <target>`
 
-`nmap --script ssh2-auth-methods --script-args="ssh.user=student" -p 22 192.244.143.3`
+`nmap --script=ssh-auth-methods --script-args="ssh.user=admin" -p 22 <target>`
 
-# Netcat 
+# Netcat
 
-`nc 192.244.143.3 22`
-
+`nc <target> 22`

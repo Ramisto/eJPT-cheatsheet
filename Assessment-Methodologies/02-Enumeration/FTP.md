@@ -1,3 +1,3 @@
 # Nmap
 
-`nmap 192.13.191.3 --script ftp-anon -p 21 `
+`nmap --script=ftp-anon -p 21 <target>`
