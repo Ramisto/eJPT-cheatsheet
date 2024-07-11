@@ -15,3 +15,6 @@
 # Metasploit
 
 `msf6 > use auxiliary/admin/mssql/mssql_enum`
+
+`msf6 > use auxiliary/admin/mssql/mssql_enum_sql_logins`
+
