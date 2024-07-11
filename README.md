@@ -1,20 +1,17 @@
 # eJPT-cheatsheet
 
 **Table of content:**
-- [01.Information Gathering](#01.Information-Gathering)
-- [02.Enumeration](#02.Enumeration)
-- [03.Exploitation](#03.Exploitation)
+- [01.Information Gathering](#01information-gathering)
+- [02.Enumeration](#02enumeration)
+- [03.Exploitation](#03exploitation)
 
-<!-- headings -->
-<a id="01.Information-Gathering"></a>
-### 1.Information
-[](./Methodology/01.Information-Gathering/Passive-Information-Gathering.md)
-[](./Methodology/01.Information-Gathering/Active-Information-Gathering.md)
 
-<a id="02.Enumeration"></a>
-### First Item
+## 01.Information-Gathering
+- [Passive Information Gathering](./Methodology/01.Information-Gathering/Passive-Information-Gathering.md)
+- [Active Information Gathering](./Methodology/01.Information-Gathering/Active-Information-Gathering.md)
+
+## 02.Enumeration
 First item content goes here
 
-<a id="03.Exploitation"></a>
-### Second Item
+## 03.Exploitation
 Second item content goes here
