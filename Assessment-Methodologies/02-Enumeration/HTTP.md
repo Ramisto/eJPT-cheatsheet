@@ -12,11 +12,11 @@
 
 # Metasploit
 
-`msf6> use auxiliary/scanner/http/http_version`
+`msf6 > use auxiliary/scanner/http/http_version`
 
-`msf6> use auxiliary/scanner/http/brute_dirs`
+`msf6 > use auxiliary/scanner/http/brute_dirs`
 
-`msf6> use auxiliary/scanner/http/robots_txt`
+`msf6 > use auxiliary/scanner/http/robots_txt`
 
 # HTTP fingerprint
 

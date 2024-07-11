@@ -16,8 +16,8 @@
 
 # Metasploit
 
-`msf6> use auxiliary/scanner/mysql/mysql_writable_dirs`
+`msf6 > use auxiliary/scanner/mysql/mysql_writable_dirs`
 
-`msf6> use auxiliary/scanner/mysql/mysql_file_enum`
+`msf6 > use auxiliary/scanner/mysql/mysql_file_enum`
 
-`msf6> use auxiliary/scanner/mysql/mysql_hashdump`
+`msf6 > use auxiliary/scanner/mysql/mysql_hashdump`

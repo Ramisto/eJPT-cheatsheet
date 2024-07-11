@@ -42,13 +42,13 @@
 
 # Metasploit
 
-`msf6> use auxiliary/scanner/smb/smb_version`
+`msf6 > use auxiliary/scanner/smb/smb_version`
 
-`msf6> use auxiliary/scanner/smb/smb2`
+`msf6 > use auxiliary/scanner/smb/smb2`
 
-`msf6> use auxiliary/scanner/smb/smb_enumshares`
+`msf6 > use auxiliary/scanner/smb/smb_enumshares`
 
-`msf6> use auxiliary/scanner/smb/pipe_auditor`
+`msf6 > use auxiliary/scanner/smb/pipe_auditor`
 
 # NMBlookup
 
