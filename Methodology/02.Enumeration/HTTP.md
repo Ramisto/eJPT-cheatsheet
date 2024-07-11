@@ -48,7 +48,7 @@ dirb <target>
 
 # Directories hidden from search engines
 
-```http
+```bash
 https://example.org/robots.txt  
 https://example.org/sitemap.xml  
 https://example.org/sitemaps.xml
