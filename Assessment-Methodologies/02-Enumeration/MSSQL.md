@@ -18,3 +18,5 @@
 
 `msf6 > use auxiliary/admin/mssql/mssql_enum_sql_logins`
 
+`msf6 > use auxiliary/admin/mssql/mssql_enum_domain_accounts`
+
