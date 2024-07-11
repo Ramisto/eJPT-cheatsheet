@@ -1,8 +1,12 @@
 # DNS
 
-`host example.org`
+```bash
+host example.org
+```
 
-`whois example.org`
+```bash
+whois example.org
+```
 
 [Dnsdumpster](https://dnsdumpster.com/)
 
@@ -12,33 +16,57 @@
 
 Use website vacuum cleaner to read source code without interacting with the target : [HTTrack](https://www.httrack.com/page/2/fr/index.html)
 
-`sudo apt install webhttrack`
+```bash
+sudo apt install webhttrack
+```
 
 # Google Dorks
 
 Limit to particular domain and subdomain :  
-`site:example.org`
 
-`site:*.example.org`
+```bash
+site:example.org
+```
+
+```bash
+site:*.example.org
+```
 
 Limit particular word in url :  
-`inurl:admin`
 
-`inurl:auth_user_file.txt`
+```bash
+inurl:admin
+```
 
-`inurl:passwd.txt`
+```bash
+inurl:auth_user_file.txt
+```
 
-`inurl:login`
+```bash
+inurl:passwd.txt
+```
+
+```bash
+inurl:login
+```
 
 Limit particular word in title :  
-`intitle:index of`
+
+```bash
+intitle:index of
+```
 
 Limit particular type of file :  
-`filetype:xlsx`
+
+```bash
+filetype:xlsx
+```
 
 # Search Engines
 
-`:~$ theHarvester -d example.org -b google,linkedin`
+```bash
+theHarvester -d example.org -b google,linkedin
+```
 
 Look a next version of website [Wayback Machine](https://archive.org)
 

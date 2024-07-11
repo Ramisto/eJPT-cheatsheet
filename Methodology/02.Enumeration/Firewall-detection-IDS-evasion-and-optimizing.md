@@ -13,33 +13,59 @@
 # Firewall detect
 
 ACK packets for detect filtered or unfiltered ports :  
-`nmap -sA -p80,445,3389 <target>`
+
+```bash
+nmap -sA -p80,445,3389 <target>
+```
 
 # IDS Evasion
 
 Zombie scan :
 
-`nmap -Pn -sI <zombie-ip> <target> -v`
+```bash
+nmap -Pn -sI <zombie-ip> <target> -v
+```
 
-Fragment packets :  
-`nmap -f -p- <target>`
+Fragment packets :
 
-Decoy scan with other IPs :  
-`nmap -D <decoy-ip> -p- <target>`
+```bash
+nmap -f -p- <target>
+```
 
-Source port scan :  
-`nmap -g <source-port> -p- <target>`
+Decoy scan with other IPs :
 
-Sneaky mode :  
-`nmap -T1 <target>`
+```bash
+nmap -D <decoy-ip> -p- <target>
+```
 
-Paranoid mode :  
-`nmap -T0 <target>`
+Source port scan :
+
+```bash
+nmap -g <source-port> -p- <target>
+```
+
+Sneaky mode :
+
+```bash
+nmap -T1 <target>
+```
+
+Paranoid mode :
+
+```bash
+nmap -T0 <target>
+```
 
 # Optimizing nmap
 
 Specify 30m to ensure that Nmap doesn't waste more than half an hour on a single host :  
-`nmap --host-timeout 30m <target>`
 
-A --scan-delay of 1s will keep Nmap at that slow rate :  
-`nmap --scan-delay 1s <target>`
+```bash
+nmap --host-timeout 30m <target>
+```
+
+A --scan-delay of 1s will keep Nmap at that slow rate :
+
+```bash
+nmap --scan-delay 1s <target>
+```

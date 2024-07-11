@@ -1,3 +1,5 @@
 # Nmap
 
-`nmap --script=ftp-anon -p 21 <target>`
+```bash
+nmap --script=ftp-anon -p 21 <target>
+```

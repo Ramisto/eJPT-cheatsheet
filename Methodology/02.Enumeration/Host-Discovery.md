@@ -1,17 +1,29 @@
 # ICMP
 
-`ping <target>`
+```bash
+ping <target>
+```
 
-`fping -a -g <target> 2>/dev/null`
+```bash
+fping -a -g <target> 2>/dev/null
+```
 
 # ARP
 
-`netdiscover -i eth0 -r <target>`
+```bash
+netdiscover -i eth0 -r <target>
+```
 
 # Nmap (ping scan)
 
-`nmap -sn <target>`
+```bash
+nmap -sn <target>
+```
 
-`nmap -sn <target> --send-ip`
+```bash
+nmap -sn <target> --send-ip
+```
 
-`nmap -sn -iL targets.txt`
+```bash
+nmap -sn -iL targets.txt
+```
