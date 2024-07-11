@@ -1,6 +1,5 @@
-# eJPT-cheatsheet
+# Table of content
 
-**Table of content:**
 - [01.Information Gathering](#01information-gathering)
 - [02.Enumeration](#02enumeration)
 - [03.Exploitation](#03exploitation)
