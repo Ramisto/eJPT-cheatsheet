@@ -3,8 +3,14 @@ Active information gathering, refers to the phase of the assessment where the te
 
 # DNS
 
-`dnsrecon -d example.org`
+```bash
+dnsrecon -d example.org
+```
 
-`dnsenum example.org`
+```bash
+dnsenum example.org
+```
 
-`sublist3r -d example.org`
+```bash
+sublist3r -d example.org
+```
