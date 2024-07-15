@@ -42,7 +42,9 @@ in progress...
 
 ## General Knowledge
 
+- [Compliance](./General-Knowledge/Compliance.md)
 - [Cybersecurity Basics](./General-Knowledge/Cybersecurity-basics.md)
 - [DNS](./General-Knowledge/DNS.md)
+- [Fameworks](./General-Knowledge/Frameworks.md)
 - [Linux commands](./General-Knowledge/Linux-commands.md)
 - [Vulnerability assessment](./General-Knowledge/Vulnerability-assessment.md)
