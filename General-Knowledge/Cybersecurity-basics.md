@@ -29,7 +29,7 @@ Security must align with business needs. Its needs are formed according to a con
 
 # Risk Management
 
-A comprehensive process that identifies potential risks, assesses their probability of occurrence and their impact on business continuity, risk management targets the strategies to be implemented and the measures to be taken to mitigate these risks. It encompasses a wide range of areas such as finance, regulatory compliance, etc. (Ecole de Guerre economique)
+Risk management is the process of identifying, assessing and managing the risks that could threaten an organization or business. Its aim is to anticipate, assess and manage potential risks in order to minimize the negative impact on business continuity.[...] (Ecole de Guerre economique)
 
 # Sources
 
