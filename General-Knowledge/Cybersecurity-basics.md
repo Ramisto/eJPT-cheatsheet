@@ -10,7 +10,7 @@ Ensures that only authorized persons have access to data, and prevents unauthori
 
 Ensure that data consistency, accuracy and reliability are maintained throughout its lifecycle.
 
-# Availabality
+## Availability
 
 Ensure that data is easily and consistently accessible to authorized users.
 
