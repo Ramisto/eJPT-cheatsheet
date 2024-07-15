@@ -1,6 +1,6 @@
 # CIA triad
 
-The CIA triad provides a simple but comprehensive high-level checklist for evaluating your security procedures and tools.[...] "Fortinet"
+The CIA triad provides a simple but comprehensive high-level checklist for evaluating your security procedures and tools.[...] (Fortinet)
 
 ## Confidentiality
 
@@ -16,7 +16,7 @@ Ensure that data is easily and consistently accessible to authorized users.
 
 # Defense in Depth
 
-Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets. The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped along the way. [...] "Fortinet"
+Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets. The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped along the way. [...] (Fortinet)
 
 # Business Needs
 
@@ -26,3 +26,13 @@ Security must align with business needs. Its needs are formed according to a con
 - its core business (medical, industrial, artisanal, etc.)
 - its objectives (achieving certification, reaching new customers more demanding,etc.)
 - its budget
+
+# Risk Management
+
+A comprehensive process that identifies potential risks, assesses their probability of occurrence and their impact on business continuity, risk management targets the strategies to be implemented and the measures to be taken to mitigate these risks. It encompasses a wide range of areas such as finance, regulatory compliance, etc. (Ecole de Guerre economique)
+
+# Sources
+
+- [Triade CIA](https://www.fortinet.com/fr/resources/cyberglossary/cia-triad#:~:text=La%20triade%20CIA%20fournit%20une,%3A%20confidentialit%C3%A9%2C%20int%C3%A9grit%C3%A9%20et%20disponibilit%C3%A9.)
+- [What is Defense in Depth? - Fortinet](https://www.fortinet.com/resources/cyberglossary/defense-in-depth#:~:text=Defense%20in%20depth%20is%20a,are%20stopped%20along%20the%20way.)
+- [Qu'est-ce que le risk management ? - Ecole de Guerre economique](https://www.ege.fr/actualites/quest-ce-que-le-risk-management)
