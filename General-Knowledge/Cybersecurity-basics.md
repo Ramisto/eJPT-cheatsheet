@@ -24,5 +24,5 @@ Security must align with business needs. Its needs are formed according to a con
 
 - its size (small, medium, large)
 - its core business (medical, industrial, artisanal, etc.)
-- its objectives (achieving certification, reaching new customers more demanding,...)
+- its objectives (achieving certification, reaching new customers more demanding,etc.)
 - its budget
