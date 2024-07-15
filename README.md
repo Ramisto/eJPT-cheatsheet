@@ -42,7 +42,7 @@ in progress...
 
 ## General Knowledge
 
-- [Cybersecurit Basics](./General-Knowledge/Cybersecurity-basics.md)
+- [Cybersecurity Basics](./General-Knowledge/Cybersecurity-basics.md)
 - [DNS](./General-Knowledge/DNS.md)
 - [Linux commands](./General-Knowledge/Linux-commands.md)
 - [Vulnerability assessment](./General-Knowledge/Vulnerability-assessment.md)
