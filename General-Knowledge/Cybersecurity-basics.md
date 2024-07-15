@@ -13,3 +13,7 @@ Ensure that data consistency, accuracy and reliability are maintained throughout
 # Availabality
 
 Ensure that data is easily and consistently accessible to authorized users.
+
+# Defense in Depth
+
+Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets. The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped along the way. [...] "Fortinet"
