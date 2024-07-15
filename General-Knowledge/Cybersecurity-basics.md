@@ -17,3 +17,12 @@ Ensure that data is easily and consistently accessible to authorized users.
 # Defense in Depth
 
 Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets. The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped along the way. [...] "Fortinet"
+
+# Business Needs
+
+Security must align with business needs. Its needs are formed according to a context :
+
+- its size (small, medium, large)
+- its core business (medical, industrial, artisanal, etc.)
+- its objectives (achieving certification, reaching new customers more demanding,...)
+- its budget
