@@ -1,12 +1,12 @@
 # PCI DSS
 
-- Mandated by card brands.
+- Mandated by card brands
 
-- Administered by the Payment Card Industry Security Standards Council.
+- Administered by the Payment Card Industry Security Standards Council
 
-- Created to increase controls around cardholder data to reduce credit card fraud.
+- Created to increase controls around cardholder data to reduce credit card fraud
 
-- Visa, MasterCard, American Express.
+- Visa, MasterCard, American Express
 
 # HIPAA
 
@@ -21,8 +21,13 @@
 - Physical Safeguards
 - Technical Safeguards
 
-
 # GDPR
+
+- General Data Protection Regulation
+
+- Data protection and privacy law in the European Union (EU) and the European Economic Area (EEA)
+
+- Controllers and processors of personal data must put in place appropriate technical and organizational measure to implement the data protection principles
 
 # CPPA
 
