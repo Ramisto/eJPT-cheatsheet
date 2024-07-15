@@ -23,6 +23,7 @@
 - [Sources](./Methodology/02.Enumeration/Sources.md)
 
 ## Exploitation
+- [CVE](./Methodology/03.Exploitation/CVE/)
 - [FTP](./Methodology/03.Exploitation/FTP.md)
 - [MSSQL](./Methodology/03.Exploitation/MSSQL.md)
 - [MySQL](./Methodology/03.Exploitation/MySQL.md)
