@@ -5,6 +5,7 @@
 - [03.Exploitation](#exploitation)
 - [04.Post-Exploitation](#post-exploitation)
 - [05.Report](#report)
+- [06.General Knowledge](#general-knowledge)
 
 ## Information-Gathering
 - [Passive Information Gathering](./Methodology/01.Information-Gathering/Passive-Information-Gathering.md)
@@ -38,3 +39,10 @@ in progress...
 ## Report
 
 in progress...
+
+## General Knowledge
+
+- [CIA triad](./General-Knowledge/CIA.md)
+- [DNS](./General-Knowledge/DNS.md)
+- [Linux commands](./General-Knowledge/Linux-commands.md)
+- [Vulnerability assessment](./General-Knowledge/Vulnerability-assessment.md)
