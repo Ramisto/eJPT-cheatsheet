@@ -9,6 +9,11 @@
     <li><a href="./Methodology/01.Information-Gathering/Passive-Information-Gathering.md">Passive Information Gathering</a></li>
     <li><a href="./Methodology/01.Information-Gathering/Active-Information-Gathering.md">Active Information Gathering</a></li>
   </ul>
+    <summary>02.Enumeration</summary>
+  <ul>
+    <li><a href="./Methodology/02.Enumeration/Firewall-detection-IDS-evasion-and-optimizing.md">Firewall Detection & IDS Evasion</a></li>
+    <li><a href="./Methodology/02.Enumeration/FTP.md">FTP</a></li>
+  </ul>
 </details>
 
 
