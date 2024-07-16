@@ -3,7 +3,7 @@
 
 <h1>Summary</h1>
 
-<details>
+<details open>
     <summary>01.Information Gathering</summary>
         <ul>
             <li><a href="./Methodology/01.Information-Gathering/Passive-Information-Gathering.md">Passive Information Gathering</a></li>
@@ -11,7 +11,7 @@
         </ul>
 </details>
 
-<details>
+<details open>
     <summary>02.Enumeration</summary>
         <ul>
             <li><a href="./Methodology/02.Enumeration/Firewall-detection-IDS-evasion-and-optimizing.md">Firewall Detection & IDS Evasion</a></li>
