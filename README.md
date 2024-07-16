@@ -4,7 +4,7 @@
 <h1>Summary</h1>
 
 <details open>
-    <summary>01.Information Gathering</summary>
+    <summary><strong>01.Information Gathering</strong></summary>
         <ul>
             <li><a href="./Methodology/01.Information-Gathering/Passive-Information-Gathering.md">Passive Information Gathering</a></li>
             <li><a href="./Methodology/01.Information-Gathering/Active-Information-Gathering.md">Active Information Gathering</a></li>
