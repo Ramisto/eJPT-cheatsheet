@@ -2,20 +2,20 @@ Domain Name System (DNS) is a protocol that is used to resolve domain names/host
 
 <code>A</code> - Resolves a hostname or domain to an IPv4 address
 
-`AAAA` - Resolves a hostname or domain to an IPv6 address
+<code>AAAA</code> - Resolves a hostname or domain to an IPv6 address
 
-`NS` - Reference to the domains nameserver
+<code>NS</code> - Reference to the domains nameserver
 
-`MX` - Resolves a domain to a mail server
+<code>MX</code> - Resolves a domain to a mail server
 
-`CNAME` - Used for domain aliases
+<code>CNAME</code> - Used for domain aliases
 
-`TXT` - Text record
+<code>TXT</code> - Text record
 
-`HINFO` - Host information
+<code>HINFO</code> - Host information
 
-`SOA` - Domain authority
+<code>SOA</code> - Domain authority
 
-`RV` - Service records
+<code>RV</code> - Service records
 
-`PTR` - Resolves an IP address to a hostname
+<code>PTR</code> - Resolves an IP address to a hostname
