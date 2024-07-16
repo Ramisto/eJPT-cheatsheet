@@ -22,10 +22,12 @@ Defense in depth is a strategy that leverages multiple security measures to prot
 
 Security must align with business needs. Its needs are formed according to a context :
 
-- its size (small, medium, large)
-- its core business (medical, industrial, artisanal, etc.)
-- its objectives (achieving certification, reaching new customers more demanding,etc.)
-- its budget
+<ul>
+    <li>its size (small, medium, large)</li>
+    <li>its core business (medical, industrial, artisanal, etc.)</li>
+    <li>its objectives (achieving certification, reaching new customers more demanding,etc.)</li>
+    <li>its budget</li>
+</ul>
 
 # Risk Management
 
