@@ -1,3 +1,19 @@
+<html>
+<body>
+
+<h1>Summary</h1>
+
+<details>
+  <summary>01.Information Gathering</summary>
+  <ul>
+    <li><a href="./Methodology/01.Information-Gathering/Passive-Information-Gathering.md">Passive Information Gathering</a></li>
+    <li><a href="./Methodology/01.Information-Gathering/Active-Information-Gathering.md">Active Information Gathering</a></li>
+  </ul>
+</details>
+
+
+
+
 # Table of content
 
 - [01.Information Gathering](#information-gathering)
@@ -6,10 +22,6 @@
 - [04.Post-Exploitation](#post-exploitation)
 - [05.Report](#report)
 - [06.General Knowledge](#general-knowledge)
-
-## Information-Gathering
-- [Passive Information Gathering](./Methodology/01.Information-Gathering/Passive-Information-Gathering.md)
-- [Active Information Gathering](./Methodology/01.Information-Gathering/Active-Information-Gathering.md)
 
 ## Enumeration
 - [Firewall Detection & IDS Evasion](./Methodology/02.Enumeration/Firewall-detection-IDS-evasion-and-optimizing.md)
@@ -48,3 +60,5 @@ in progress...
 - [Fameworks](./General-Knowledge/Frameworks.md)
 - [Linux commands](./General-Knowledge/Linux-commands.md)
 - [Vulnerability assessment](./General-Knowledge/Vulnerability-assessment.md)
+</body>
+</html>
