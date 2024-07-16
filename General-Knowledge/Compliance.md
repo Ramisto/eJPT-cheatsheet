@@ -26,8 +26,10 @@ Health Insurance Portability and Accountability Act of 1996
 
 General Data Protection Regulation
 
-- Data protection and privacy law in the European Union (EU) and the European Economic Area (EEA)
-- Controllers and processors of personal data must put in place appropriate technical and organizational measure to implement the data protection principles
+<ul>
+    <li>Data protection and privacy law in the European Union (EU) and the European Economic Area (EEA)</li>
+    <li>Controllers and processors of personal data must put in place appropriate technical and organizational measure to implement the data protection principles</li>
+</ul>
 
 # CPPA
 
