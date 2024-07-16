@@ -1,4 +1,4 @@
-# PCI DSS
+<h1>PCI DSS</h1>
 
 <ul>
     <li>Mandated by card brands</li>
@@ -7,7 +7,7 @@
     <li>Visa, MasterCard, American Express</li>
 </ul>
 
-# HIPAA
+<h1>HIPAA
 
 Health Insurance Portability and Accountability Act of 1996
 
@@ -22,7 +22,7 @@ Health Insurance Portability and Accountability Act of 1996
         </ul>
 </ul>
 
-# GDPR
+<h1>GDPR</h1>
 
 General Data Protection Regulation
 
@@ -31,7 +31,7 @@ General Data Protection Regulation
     <li>Controllers and processors of personal data must put in place appropriate technical and organizational measure to implement the data protection principles</li>
 </ul>
 
-# CPPA
+<h1>CPPA</h1>
 
 California Consumer Privacy Act
 
@@ -41,7 +41,7 @@ California Consumer Privacy Act
     <li>Liability may also apply in respect of businesses in overseas countries who ship items into California</li>
 </ul>
 
-# SOX
+<h1>SOX</h1>
 
 Sarbanes-Oxley Act of 2002
 
