@@ -1,21 +1,26 @@
 # PCI DSS
 
-- Mandated by card brands
-- Administered by the Payment Card Industry Security Standards Council
-- Created to increase controls around cardholder data to reduce credit card fraud
-- Visa, MasterCard, American Express
+<ul>
+    <li>Mandated by card brands</li>
+    <li>Administered by the Payment Card Industry Security Standards Council</li>
+    <li>Created to increase controls around cardholder data to reduce credit card fraud</li>
+    <li>Visa, MasterCard, American Express</li>
+</ul>
 
 # HIPAA
 
 Health Insurance Portability and Accountability Act of 1996
 
-- US regulation for the use and disclosure of Protected Health Information (PHI)
-- The Final Rule on Security Standards was issued on February 20, 2003.
-
-- Standards and Specifications :
-- Administrative Safeguards
-- Physical Safeguards
-- Technical Safeguards
+<ul>
+    <li>>US regulation for the use and disclosure of Protected Health Information (PHI)</li>
+    <li>The Final Rule on Security Standards was issued on February 20, 2003</li>
+    <li>Standards and Specifications :</li>
+        <ul>
+            <li>Administrative Safeguards</li>
+            <li>Physical Safeguards</li>
+            <li>Technical Safeguards</li>
+        </ul>
+</ul>
 
 # GDPR
 
