@@ -10,7 +10,7 @@
 
 # HIPAA
 
-- Health Insurance Portability and Accountability Act of 1996
+Health Insurance Portability and Accountability Act of 1996
 
 - US regulation for the use and disclosure of Protected Health Information (PHI)
 
@@ -23,7 +23,7 @@
 
 # GDPR
 
-- General Data Protection Regulation
+General Data Protection Regulation
 
 - Data protection and privacy law in the European Union (EU) and the European Economic Area (EEA)
 
@@ -31,7 +31,7 @@
 
 # CPPA
 
-- California Consumer Privacy Act
+California Consumer Privacy Act
 
 - Intended to enhance privacy rights and consumer protection for residents of California, United States
 
@@ -41,7 +41,7 @@
 
 # SOX
 
-- Sarbanes-Oxley Act of 2002
+Sarbanes-Oxley Act of 2002
 
 - US federal law mandates certain practices in financial record keeping and reporting of corporations
 
