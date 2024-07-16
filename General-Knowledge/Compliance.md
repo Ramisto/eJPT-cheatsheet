@@ -7,7 +7,7 @@
     <li>Visa, MasterCard, American Express</li>
 </ul>
 
-<h1>HIPAA
+<h1>HIPAA</h1>
 
 Health Insurance Portability and Accountability Act of 1996
 
