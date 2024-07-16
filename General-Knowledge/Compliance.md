@@ -12,7 +12,7 @@
 Health Insurance Portability and Accountability Act of 1996
 
 <ul>
-    <li>>US regulation for the use and disclosure of Protected Health Information (PHI)</li>
+    <li>US regulation for the use and disclosure of Protected Health Information (PHI)</li>
     <li>The Final Rule on Security Standards was issued on February 20, 2003</li>
     <li>Standards and Specifications :</li>
         <ul>
