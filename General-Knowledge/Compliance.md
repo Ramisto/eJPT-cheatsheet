@@ -35,9 +35,11 @@ General Data Protection Regulation
 
 California Consumer Privacy Act
 
-- Intended to enhance privacy rights and consumer protection for residents of California, United States
-- Companies that become victims of data theft or other data security breaches can be ordered in civil class action lawsuits to pay statutory damages
-- Liability may also apply in respect of businesses in overseas countries who ship items into California
+<ul>
+    <li>Intended to enhance privacy rights and consumer protection for residents of California, United States</li>
+    <li>Companies that become victims of data theft or other data security breaches can be ordered in civil class action lawsuits to pay statutory damages</li>
+    <li>Liability may also apply in respect of businesses in overseas countries who ship items into California</li>
+</ul>
 
 # SOX
 
