@@ -1,4 +1,4 @@
-# Nmap
+<h1>Nmap</h1>
 
 `nmap --script=mysql-empty-password -p 3306 <target>`
 
@@ -14,7 +14,7 @@
 
 `nmap --script=mysql-audit --script-args="mysql-audit.username='root',mysql-audit.pass='',mysql-audit.filename='/usr/share/nmap/nselib/data/mysql-cis.audit'" -p 3306 <target>`
 
-# Metasploit
+<h1>Metasploit</h1>
 
 `msf6 > use auxiliary/scanner/mysql/mysql_writable_dirs`
 

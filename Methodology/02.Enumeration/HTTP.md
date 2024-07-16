@@ -1,4 +1,4 @@
-# Nmap
+<h1>Nmap</h1>
 
 ```bash
 nmap -sV --script=http-enum -p80 <target>
@@ -20,7 +20,7 @@ nmap -sV --script=http-headers --script-args http-methods.url-path=/webdav/ -p80
 nmap -sV --script=http-webdav-scan --script-args http-methods.url-path=/webdav/ -p80 <target>
 ```
 
-# Metasploit
+<h1>Metasploit</h1>
 
 ```bash
 msf6 > use auxiliary/scanner/http/http_version
@@ -34,19 +34,19 @@ msf6 > use auxiliary/scanner/http/brute_dirs
 msf6 > use auxiliary/scanner/http/robots_txt
 ```
 
-# HTTP fingerprint
+<h1>HTTP fingerprint</h1>
 
 ```bash
 http <target>
 ```
 
-# Directory listing
+<h1>Directory listing</h1>
 
 ```bash
 dirb <target>
 ```
 
-# Directories hidden from search engines
+<h1>Directories hidden from search engines</h1>
 
 ```bash
 https://example.org/robots.txt  
@@ -54,14 +54,14 @@ https://example.org/sitemap.xml
 https://example.org/sitemaps.xml
 ```
 
-# Web technologies being used
+<h1>Web technologies being used</h1>
 
 Firefox add-ons :
 
 - [BuiltWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/)
 - [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
-# Web scanner
+<h1>Web scanner</h1>
 
 ```bash
 whatweb example.org
@@ -75,7 +75,7 @@ nikto example.org
 nuclei example.org
 ```
 
-# CLI Browser
+<h1>CLI Browser</h1>
 
 ```bash
 lynx http://<target>

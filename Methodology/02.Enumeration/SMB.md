@@ -1,4 +1,4 @@
-# Nmap
+<h1>Nmap</h1>
 
 `nmap --script=smb-protocols -p445 <target>`
 
@@ -24,7 +24,7 @@
 
 `nmap --script=smb-enum-sessions --script-args smbusername=administrator,smbpassword=smbserver_771 -p445 <target>`
 
-# SMBmap
+<h1>SMBmap</h1>
 
 `smbmap -u administrator -p smbserver_771 -H <target>`
 
@@ -40,7 +40,7 @@
 
 `smbmap -u administrator -p smbserver_771 --download 'C$\flag.txt' -H <target>`
 
-# Metasploit
+<h1>Metasploit</h1>
 
 `msf6 > use auxiliary/scanner/smb/smb_version`
 
@@ -50,15 +50,15 @@
 
 `msf6 > use auxiliary/scanner/smb/pipe_auditor`
 
-# NMBlookup
+<h1>NMBlookup</h1>
 
 `nmblookup -A <target>`
 
-# SMBclient
+<h1>SMBclient</h1>
 
 `smbclient -L -N <target>`
 
-# RPCclient
+<h1>RPCclient</h1>
 
 `rpcclient -U "" -N <target>`
 
@@ -70,7 +70,7 @@
 
 `$> lookupnames admin`
 
-# Enum4linux
+<h1>Enum4linux</h1>
 
 `enum4linux -o <target>`
 

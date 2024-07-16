@@ -1,4 +1,4 @@
-# Nmap
+<h1>Nmap</h1>
 
 `nmap --script=ms-sql-info -p 1433 <target>`
 
@@ -12,7 +12,7 @@
 
 `nmap --script=ms-sql-xp-cmdshell --script-args=mssql.username=admin,mssql.password=anamaria,ms-xp-cmdshell.cmd="ipconfig" -p 1433 <target>`
 
-# Metasploit
+<h1>Metasploit</h1>
 
 `msf6 > use auxiliary/admin/mssql/mssql_enum`
 

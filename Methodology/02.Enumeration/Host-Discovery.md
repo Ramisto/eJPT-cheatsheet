@@ -1,4 +1,4 @@
-# ICMP
+<h1>ICMP</h1>
 
 ```bash
 ping <target>
@@ -8,13 +8,13 @@ ping <target>
 fping -a -g <target> 2>/dev/null
 ```
 
-# ARP
+<h1>ARP</h1>
 
 ```bash
 netdiscover -i eth0 -r <target>
 ```
 
-# Nmap (ping scan)
+<h1>Nmap (ping scan)</h1>
 
 ```bash
 nmap -sn <target>
