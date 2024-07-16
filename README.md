@@ -12,7 +12,7 @@
 </details>
 
 <details open>
-    <summary>02.Enumeration</summary>
+    <summary><strong>02.Enumeration</strong></summary>
         <ul>
             <li><a href="./Methodology/02.Enumeration/Firewall-detection-IDS-evasion-and-optimizing.md">Firewall Detection & IDS Evasion</a></li>
             <li><a href="./Methodology/02.Enumeration/FTP.md">FTP</a></li>
@@ -27,42 +27,42 @@
         </ul>
 </details>
 
-## Enumeration
-- [Firewall Detection & IDS Evasion](./Methodology/02.Enumeration/Firewall-detection-IDS-evasion-and-optimizing.md)
-- [FTP](./Methodology/02.Enumeration/FTP.md)
-- [General Ports Scanning](./Methodology/02.Enumeration/General-ports-scanning.md)
-- [Host Discovery](./Methodology/02.Enumeration/Host-Discovery.md)
-- [HTTP](./Methodology/02.Enumeration/HTTP.md)
-- [MSSQL](./Methodology/02.Enumeration/MSSQL.md)
-- [MySQL](./Methodology/02.Enumeration/MySQL.md)
-- [SMB](./Methodology/02.Enumeration/SMB.md)
-- [SSH](./Methodology/02.Enumeration/SSH.md)
-- [Sources](./Methodology/02.Enumeration/Sources.md)
+<details open>
+    <summary><strong>03.Exploitation</strong></summary>
+        <ul>
+            <li><a href="./Methodology/03.Exploitation/CVE/">CVE</a></li>
+            <li><a href="./Methodology/03.Exploitation/FTP.md">FTP</a></li>
+            <li><a href="./Methodology/03.Exploitation/MSSQL.md">MSSQL</a></li>
+            <li><a href="./Methodology/03.Exploitation/MySQL.md">MySQL</a></li>
+            <li><a href="./Methodology/03.Exploitation/SMB.md">SMB</a></li>
+            <li><a href="./Methodology/03.Exploitation/SSH.md">SSH</a></li>
+            <li><a href="./Methodology/03.Exploitation/Sources.md">Sources</a></li>
+        </ul>
+</details>
 
-## Exploitation
-- [CVE](./Methodology/03.Exploitation/CVE/)
-- [FTP](./Methodology/03.Exploitation/FTP.md)
-- [MSSQL](./Methodology/03.Exploitation/MSSQL.md)
-- [MySQL](./Methodology/03.Exploitation/MySQL.md)
-- [SMB](./Methodology/03.Exploitation/SMB.md)
-- [SSH](./Methodology/03.Exploitation/SSH.md)
-- [Sources](./Methodology/03.Exploitation/Sources.md)
+<details open>
+    <summary><strong>04.Post-Exploitation</strong></summary>
+        <ul>
+        </ul>
+</details>
 
-## Post-Exploitation
+<details open>
+    <summary><strong>05.Report</strong></summary>
+        <ul>
+        </ul>
+</details>
 
-in progress...
+<details open>
+    <summary><strong>06.General Knowledge</strong></summary>
+        <ul>
+            <li><a href="./General-Knowledge/Compliance.md">Compliance</a></li>
+            <li><a href="./General-Knowledge/Cybersecurity-basics.md">Cybersecurity Basics</a></li>
+            <li><a href="./General-Knowledge/DNS.md">DNS</a></li>
+            <li><a href="./General-Knowledge/Frameworks.md">Frameworks</a></li>
+            <li><a href="./General-Knowledge/Linux-commands.md">Linux commands</a></li>
+            <li><a href="./General-Knowledge/Vulnerability-assessment.md">Vulnerability assessment</a></li>
+        </ul>
+</details>
 
-## Report
-
-in progress...
-
-## General Knowledge
-
-- [Compliance](./General-Knowledge/Compliance.md)
-- [Cybersecurity Basics](./General-Knowledge/Cybersecurity-basics.md)
-- [DNS](./General-Knowledge/DNS.md)
-- [Fameworks](./General-Knowledge/Frameworks.md)
-- [Linux commands](./General-Knowledge/Linux-commands.md)
-- [Vulnerability assessment](./General-Knowledge/Vulnerability-assessment.md)
 </body>
 </html>
