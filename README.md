@@ -1,6 +1,3 @@
-<html>
-<body>
-
 <h1>Summary</h1>
 
 <details open>
@@ -63,6 +60,3 @@
             <li><a href="./General-Knowledge/Vulnerability-assessment.md">Vulnerability assessment</a></li>
         </ul>
 </details>
-
-</body>
-</html>
