@@ -19,6 +19,12 @@ Control Objectives for Information and Related Technologies
 
 # NIST
 
+National Institute of Standards and Technology
+
+- Catalog of security and privacy controls for all U.S federal information systems except those related to national security
+- Agencies are expected to be compliant with NIST security standards and guidelines
+- NIST Special Publication 800-53B provides a set of baseline security controls and privacy controls for information systems and organizations
+
 # CIS
 
 # CMMC
