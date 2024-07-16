@@ -16,20 +16,12 @@
         <ul>
             <li><a href="./Methodology/02.Enumeration/Firewall-detection-IDS-evasion-and-optimizing.md">Firewall Detection & IDS Evasion</a></li>
             <li><a href="./Methodology/02.Enumeration/FTP.md">FTP</a></li>
+            <li><a href="./Methodology/02.Enumeration/General-ports-scanning.md">General Ports Scanning</a></li>
+            <li><a href="./Methodology/02.Enumeration/Host-Discovery.md">Host-Discovery</a></li>
+            <li><a href="./Methodology/02.Enumeration/HTTP.md"></a>HTTP</li>
+            <li><a href=""></a></li>
         </ul>
 </details>
-
-
-
-
-# Table of content
-
-- [01.Information Gathering](#information-gathering)
-- [02.Enumeration](#enumeration)
-- [03.Exploitation](#exploitation)
-- [04.Post-Exploitation](#post-exploitation)
-- [05.Report](#report)
-- [06.General Knowledge](#general-knowledge)
 
 ## Enumeration
 - [Firewall Detection & IDS Evasion](./Methodology/02.Enumeration/Firewall-detection-IDS-evasion-and-optimizing.md)
