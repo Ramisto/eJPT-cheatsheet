@@ -32,7 +32,8 @@ The thinking is that if one line of defense is compromised, additional layers ex
 
 <h1>Risk Management</h1>
 
-<p>Risk management is the process of identifying, assessing and managing the risks that could threaten an organization or business.<br> Its aim is to anticipate, assess and manage potential risks in order to minimize the negative impact on business continuity.[...] (Ecole de Guerre economique)</p>
+<p>Risk management is the process of identifying, assessing and managing the risks that could threaten an organization or business.<br> Its aim is to anticipate, assess and manage potential risks in order to minimize the negative impact <br>
+on business continuity.[...] (Ecole de Guerre economique)</p>
 
 <h1>Sources</h1>
 
