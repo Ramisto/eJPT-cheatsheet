@@ -12,7 +12,10 @@ International Organization for Standardization and the International Electrotech
 
 # COBIT
 
+Control Objectives for Information and Related Technologies
 
+- Created by ISACA for information technology (IT) management and IT governance
+- Business focused and defines a set of generic processes for the management of IT
 
 # NIST
 
