@@ -27,6 +27,12 @@ National Institute of Standards and Technology
 
 # CIS
 
+Center for Internet Security
+
+- Set of 18 prioritized safeguards to mitigate the most prevalent cyber-attacks
+- A defense-in-depth model to help prevent and detect malware
+- Offers a free, hosted software product called the CIS Controls Self Assessment Tool (CIS-CSAT)
+
 # CMMC
 
 # ASD
