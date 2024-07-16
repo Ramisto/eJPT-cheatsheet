@@ -18,8 +18,12 @@
             <li><a href="./Methodology/02.Enumeration/FTP.md">FTP</a></li>
             <li><a href="./Methodology/02.Enumeration/General-ports-scanning.md">General Ports Scanning</a></li>
             <li><a href="./Methodology/02.Enumeration/Host-Discovery.md">Host-Discovery</a></li>
-            <li><a href="./Methodology/02.Enumeration/HTTP.md"></a>HTTP</li>
-            <li><a href=""></a></li>
+            <li><a href="./Methodology/02.Enumeration/HTTP.md">HTTP</a></li>
+            <li><a href="./Methodology/02.Enumeration/MSSQL.md">MSSQL</a></li>
+            <li><a href="./Methodology/02.Enumeration/MySQL.md">MySQL</a></li>
+            <li><a href="./Methodology/02.Enumeration/SMB.md">SMB</a></li>
+            <li><a href="./Methodology/02.Enumeration/SSH.md">SSH</a></li>
+            <li><a href="./Methodology/02.Enumeration/Sources.md">Sources</a></li>
         </ul>
 </details>
 
