@@ -45,5 +45,7 @@ California Consumer Privacy Act
 
 Sarbanes-Oxley Act of 2002
 
-- US federal law mandates certain practices in financial record keeping and reporting of corporations
-- Requires strong internal control processes over the IT infrastructure and applications that house the financial information that flows into its financial reports in order to enable them to make timely disclosures to the public if a breach were to occur
+<ul>
+    <li>US federal law mandates certain practices in financial record keeping and reporting of corporations</li>
+    <li>Requires strong internal control processes over the IT infrastructure and applications that house the financial information that flows into its financial reports in order to enable them to make timely disclosures to the public if a breach were to occur</li>
+</ul>
