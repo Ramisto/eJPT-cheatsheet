@@ -41,7 +41,7 @@ Cybersecurity Maturity Model Certification
 - Requires a third party assessor to verify the cybersecurity maturation level
 - 5 levels
 
-# ASD 
+# ASD Essential 8
 
 Australian Cyber Security Centre Essential Eight Maturity Model
 
