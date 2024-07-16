@@ -1,4 +1,4 @@
-Domain Name System (DNS) is a protocol that is used to resolve domain names/hostnames to IP addresses.
+<p>Domain Name System (DNS) is a protocol that is used to resolve domain names/hostnames to IP addresses.</p>
 
 <code>A</code> - Resolves a hostname or domain to an IPv4 address
 
