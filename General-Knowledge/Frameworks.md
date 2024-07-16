@@ -56,5 +56,4 @@ Australian Cyber Security Centre Essential Eight Maturity Model
         <li>Limits extent of attacks (Restrict admin privileges, Patch operating system, multi-factor authentification)</li>
         <li>Recovers data & system availability (Daily backups)</li>
     </ul>
-
 </ul>
