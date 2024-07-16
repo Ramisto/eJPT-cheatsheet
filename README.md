@@ -56,7 +56,16 @@
             <li><a href="./General-Knowledge/Cybersecurity-basics.md">Cybersecurity Basics</a></li>
             <li><a href="./General-Knowledge/DNS.md">DNS</a></li>
             <li><a href="./General-Knowledge/Frameworks.md">Frameworks</a></li>
-            <li><a href="./General-Knowledge/Linux-commands.md">Linux commands</a></li>
-            <li><a href="./General-Knowledge/Vulnerability-assessment.md">Vulnerability assessment</a></li>
+            <li><a href="./General-Knowledge/Linux-commands.md">Linux Commands</a></li>
+            <li><a href="./General-Knowledge/Vulnerability-assessment.md">Vulnerability Assessment</a></li>
+        </ul>
+</details>
+
+<details open>
+    <summary><strong>07.Tools</strong></summary>
+        <ul>
+            <li><a href="./Tools/For-Enumeration.md">For Compliance</a></li>
+            <li><a href="./Tools/For-Enumeration.md">For Enumeration</a></li>
+            <li><a href="./Tools/For-Exploitation.md">For Exploitation</a></li>
         </ul>
 </details>
