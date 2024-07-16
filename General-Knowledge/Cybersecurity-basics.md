@@ -1,26 +1,27 @@
 <h1>CIA triad</h1>
 
-The CIA triad provides a simple but comprehensive high-level checklist for evaluating your security procedures and tools.[...] (Fortinet)
+<p>The CIA triad provides a simple but comprehensive high-level checklist for evaluating your security procedures and tools.[...] (Fortinet)</p>
 
 <h2>Confidentiality</h2>
 
-Ensures that only authorized persons have access to data, and prevents unauthorized attempts to access sensitive information.
+<p>Ensures that only authorized persons have access to data, and prevents unauthorized attempts to access sensitive information.</p>
 
 <h2>Integrity</h2>
 
-Ensure that data consistency, accuracy and reliability are maintained throughout its lifecycle.
+<p>Ensure that data consistency, accuracy and reliability are maintained throughout its lifecycle.</p>
 
 <h2>Availability</h2>
 
-Ensure that data is easily and consistently accessible to authorized users.
+<p>Ensure that data is easily and consistently accessible to authorized users.</p>
 
 <h1>Defense in Depth</h1>
 
-Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets. The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped along the way. [...] (Fortinet)
+<p>Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets.<br>
+The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped<br> along the way. [...] (Fortinet)</p>
 
 <h1>Business Needs</h1>
 
-Security must align with business needs. Its needs are formed according to a context :
+<p>Security must align with business needs. Its needs are formed according to a context :</p>
 
 <ul>
     <li>its size (small, medium, large)</li>
@@ -31,7 +32,7 @@ Security must align with business needs. Its needs are formed according to a con
 
 <h1>Risk Management</h1>
 
-Risk management is the process of identifying, assessing and managing the risks that could threaten an organization or business. Its aim is to anticipate, assess and manage potential risks in order to minimize the negative impact on business continuity.[...] (Ecole de Guerre economique)
+<p>Risk management is the process of identifying, assessing and managing the risks that could threaten an organization or business.<br> Its aim is to anticipate, assess and manage potential risks in order to minimize the negative impact on business continuity.[...] (Ecole de Guerre economique)</p>
 
 <h1>Sources</h1>
 
