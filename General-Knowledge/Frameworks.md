@@ -48,3 +48,8 @@ Australian Cyber Security Centre Essential Eight Maturity Model
 - Help organisations protect themselves against various cyber threats
 - Designed to protect Microsoft Windows-based internet-connected networks
 - 4 maturity levels
+
+- Essential 8 Security Controls : 
+- Prevent attacks (Application control, Patch applications, Configure Microsoft office macros, User application hardening)
+- Limits extent of attacks (Restrict admin privileges, Patch operating system, multi-factor authentification)
+- Recovers data & system availability (Daily backups)
