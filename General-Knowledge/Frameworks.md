@@ -2,13 +2,29 @@
 
 International Organization for Standardization and the International Electrotechnical Commission
 
-- Deliberately broad in scope
-- Covering more than just privacy, confidentiality and IT/Technical/Cybersecurity issues
-- Applicable to organizations of all shapes and sizes
+<ul>
+    <li>Deliberately broad in scope</li>
+    <li>Covering more than just privacy, confidentiality and IT/Technical/Cybersecurity issues</li>
+    <li>Applicable to organizations of all shapes and sizes</li>
+</ul>
 
-- ISO/IEC 27001 : Information technology, Security Techniques, Information Security, Management Systems, Requirements
+<ul>
+    <li>ISO/IEC 27001 :</li>
+        <ul>
+            <li>Information technology</li>
+            <li>Security Techniques</li>
+            <li>Information Security</li>
+            <li>Management Systems</li>
+            <li>Requirements</li>
+        </ul>
+</ul>
 
-- ISO/IEC 27002 : Code of practice for information security controls
+<ul>
+    <li>ISO/IEC 27002 :</li> 
+    <ul>
+        <li>Code of practice for information security controls</li>
+    </ul>
+</ul>
 
 # COBIT
 
@@ -45,9 +61,11 @@ Cybersecurity Maturity Model Certification
 
 Australian Cyber Security Centre Essential Eight Maturity Model
 
-- Help organisations protect themselves against various cyber threats
-- Designed to protect Microsoft Windows-based internet-connected networks
-- 4 maturity levels
+<ul>
+    <li>Help organisations protect themselves against various cyber threats</li>
+    <li>Designed to protect Microsoft Windows-based internet-connected networks</li>
+    <li>4 maturity levels</li>
+</ul>
 
 <ul>
 <li>Essential 8 Security Controls :</li>
