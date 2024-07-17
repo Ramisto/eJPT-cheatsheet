@@ -83,3 +83,9 @@ Australian Cyber Security Centre Essential Eight Maturity Model
         <li>Recovers data & system availability (Daily backups)</li>
     </ul>
 </ul>
+
+<h1>Tools</h1>
+
+<a href="https://public.cyber.mil/stigs/scap/">Security Content Automation Protocol (SCAP) Compliance Checker</a>
+
+<a href="https://public.cyber.mil/stigs/srg-stig-tools/">Security Technical Implementation Guides (STIGs) Viewer 3.3</a>
