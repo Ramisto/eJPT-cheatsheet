@@ -1,6 +1,6 @@
 <h1>Summary</h1>
 
-<details open>
+<details>
     <summary><strong>01.Information Gathering</strong></summary>
         <ul>
             <li><a href="./Methodology/01.Information-Gathering/Passive-Information-Gathering.md">Passive Information Gathering</a></li>
@@ -8,7 +8,7 @@
         </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>02.Enumeration</strong></summary>
         <ul>
             <li><a href="./Methodology/02.Enumeration/Firewall-detection-IDS-evasion-and-optimizing.md">Firewall Detection & IDS Evasion</a></li>
@@ -24,32 +24,34 @@
         </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>03.Exploitation</strong></summary>
         <ul>
             <li><a href="./Methodology/03.Exploitation/CVE/">CVE</a></li>
-            <li><a href="./Methodology/03.Exploitation/FTP.md">FTP</a></li>
-            <li><a href="./Methodology/03.Exploitation/MSSQL.md">MSSQL</a></li>
-            <li><a href="./Methodology/03.Exploitation/MySQL.md">MySQL</a></li>
-            <li><a href="./Methodology/03.Exploitation/SMB.md">SMB</a></li>
-            <li><a href="./Methodology/03.Exploitation/SSH.md">SSH</a></li>
-            <li><a href="./Methodology/03.Exploitation/Sources.md">Sources</a></li>
+            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/FTP.md">FTP</a></li>
+            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/MSSQL.md">MSSQL</a></li>
+            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/Microsoft-IIS-WebDAV.md">Microsoft-IIS-WebDAV</a></li>
+            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/MySQL.md">MySQL</a></li>
+            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/RDP.md">RDP</a></li>
+            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/SMB.md">SMB</a></li>
+            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/SSH.md">SSH</a></li>
+            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/WinRM.md">WinRM</a></li>
         </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>04.Post-Exploitation</strong></summary>
         <ul>
         </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>05.Report</strong></summary>
         <ul>
         </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>06.General Knowledge</strong></summary>
         <ul>
             <li><a href="./General-Knowledge/Compliance.md">Compliance</a></li>
@@ -61,7 +63,7 @@
         </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>07.Tools</strong></summary>
         <ul>
             <li><a href="./Tools/For-Enumeration.md">For Compliance</a></li>
