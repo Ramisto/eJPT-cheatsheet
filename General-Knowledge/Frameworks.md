@@ -1,63 +1,37 @@
-<h1>ISO/IEC 27000</h1>
+# ISO/IEC 27000 (International Organization for Standardization and the International Electrotechnical Commission)
 
-International Organization for Standardization and the International Electrotechnical Commission
+- Deliberately broad in scope
+- Covering more than just privacy, confidentiality and IT/Technical/Cybersecurity issues
+- Applicable to organizations of all shapes and sizes
 
-<ul>
-    <li>Deliberately broad in scope</li>
-    <li>Covering more than just privacy, confidentiality and IT/Technical/Cybersecurity issues</li>
-    <li>Applicable to organizations of all shapes and sizes</li>
-</ul>
+- ISO/IEC 27001 :
+    - Information technology
+    - Security Techniques
+    - Information Security
+    - Management Systems
+    - Requirements
 
-<ul>
-    <li>ISO/IEC 27001 :</li>
-        <ul>
-            <li>Information technology</li>
-            <li>Security Techniques</li>
-            <li>Information Security</li>
-            <li>Management Systems</li>
-            <li>Requirements</li>
-        </ul>
-</ul>
+- ISO/IEC 27002 :
+    - Code of practice for information security controls
 
-<ul>
-    <li>ISO/IEC 27002 :</li> 
-    <ul>
-        <li>Code of practice for information security controls</li>
-    </ul>
-</ul>
+# COBIT (Control Objectives for Information and Related Technologies)
 
-<h1>COBIT</h1>
+- Created by ISACA for information technology (IT) management and IT governance
+- Business focused and defines a set of generic processes for the management of IT
 
-Control Objectives for Information and Related Technologies
+# NIST (National Institute of Standards and Technology)
 
-<ul>
-    <li>Created by ISACA for information technology (IT) management and IT governance</li>
-    <li>Business focused and defines a set of generic processes for the management of IT</li>
-</ul>
+- Catalog of security and privacy controls for all U.S federal information systems except those related to national security
+- Agencies are expected to be compliant with NIST security standards and guidelines
+- NIST Special Publication 800-53B provides a set of baseline security controls and privacy controls for information systems and organizations
 
-<h1>NIST</h1>
+# CIS (Center for Internet Security)
 
-National Institute of Standards and Technology
+- Set of 18 prioritized safeguards to mitigate the most prevalent cyber-attacks
+- A defense-in-depth model to help prevent and detect malware
+- Offers a free, hosted software product called the CIS Controls Self Assessment Tool (CIS-CSAT)
 
-<ul>
-    <li>Catalog of security and privacy controls for all U.S federal information systems except those related to national security</li>
-    <li>Agencies are expected to be compliant with NIST security standards and guidelines</li>
-    <li>NIST Special Publication 800-53B provides a set of baseline security controls and privacy controls for information systems and organizations</li>
-</ul>
-
-<h1>CIS</h1>
-
-Center for Internet Security
-
-<ul>
-    <li>Set of 18 prioritized safeguards to mitigate the most prevalent cyber-attacks</li>
-    <li>A defense-in-depth model to help prevent and detect malware</li>
-    <li>Offers a free, hosted software product called the CIS Controls Self Assessment Tool (CIS-CSAT)</li>
-</ul>
-
-<h1>CMMC</h1>
-
-Cybersecurity Maturity Model Certification
+# CMMC (Cybersecurity Maturity Model Certification)
 
 <ul>
     <li>A training, certification, and third party assessment program of cybersecurity in the United States government Defense Industrial Base</li>
