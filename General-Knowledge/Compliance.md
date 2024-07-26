@@ -1,51 +1,33 @@
-<h1>PCI DSS</h1>
+# PCI DSS (Payment Card Industry Data Security Standard)
 
-<ul>
-    <li>Mandated by card brands</li>
-    <li>Administered by the Payment Card Industry Security Standards Council</li>
-    <li>Created to increase controls around cardholder data to reduce credit card fraud</li>
-    <li>Visa, MasterCard, American Express</li>
-</ul>
+- Mandated by card brands
+- Administered by the Payment Card Industry Security Standards Council
+- Created to increase controls around cardholder data to reduce credit card fraud
+- Visa, MasterCard, American Express, etc.
 
-<h1>HIPAA</h1>
+# HIPAA (Health Insurance Portability and Accountability Act of 1996)
 
-Health Insurance Portability and Accountability Act of 1996
+- US regulation for the use and disclosure of Protected Health Information (PHI)
+- The Final Rule on Security Standards was issued on February 20, 2003
 
-<ul>
-    <li>US regulation for the use and disclosure of Protected Health Information (PHI)</li>
-    <li>The Final Rule on Security Standards was issued on February 20, 2003</li>
-    <li>Standards and Specifications :</li>
-        <ul>
-            <li>Administrative Safeguards</li>
-            <li>Physical Safeguards</li>
-            <li>Technical Safeguards</li>
-        </ul>
-</ul>
+- Standards and Specifications :
+    - Administrative Safeguards
+    - Physical Safeguards
+    - Technical Safeguards
 
-<h1>GDPR</h1>
+# GDPR (General Data Protection Regulation)
 
-General Data Protection Regulation
+- Data protection and privacy law in the European Union (EU) and the European Economic Area (EEA)
+- Controllers and processors of personal data must put in place appropriate technical and organizational measure to implement the data protection principles
 
-<ul>
-    <li>Data protection and privacy law in the European Union (EU) and the European Economic Area (EEA)</li>
-    <li>Controllers and processors of personal data must put in place appropriate technical and organizational measure to implement the data protection principles</li>
-</ul>
+# CPPA (California Consumer Privacy Act)
 
-<h1>CPPA</h1>
+- Intended to enhance privacy rights and consumer protection for residents of California, United States
+- Companies that become victims of data theft or other data security breaches can be ordered in civil class action lawsuits to pay statutory damages
+- Liability may also apply in respect of businesses in overseas countries who ship items into California
 
-California Consumer Privacy Act
 
-<ul>
-    <li>Intended to enhance privacy rights and consumer protection for residents of California, United States</li>
-    <li>Companies that become victims of data theft or other data security breaches can be ordered in civil class action lawsuits to pay statutory damages</li>
-    <li>Liability may also apply in respect of businesses in overseas countries who ship items into California</li>
-</ul>
+# SOX (Sarbanes-Oxley Act of 2002)
 
-<h1>SOX</h1>
-
-Sarbanes-Oxley Act of 2002
-
-<ul>
-    <li>US federal law mandates certain practices in financial record keeping and reporting of corporations</li>
-    <li>Requires strong internal control processes over the IT infrastructure and applications that house the financial information that flows into its financial reports in order to enable them to make timely disclosures to the public if a breach were to occur</li>
-</ul>
+- US federal law mandates certain practices in financial record keeping and reporting of corporations
+- Requires strong internal control processes over the IT infrastructure and applications that house the financial information that flows into its financial reports in order to enable them to make timely disclosures to the public if a breach were to occur
