@@ -1,48 +1,72 @@
-<h1>DNS</h1>
+# DNS
 
-<code>host example.org</code>
+```
+host example.org
+```
 
-<code>whois example.org</code>
+```
+whois example.org
+```
 
 - [Dnsdumpster](https://dnsdumpster.com/)
 
 - [Netcraft](https://sitereport.netcraft.com/)
 
-<h1>Source code</h1>
+# Source code
 
 Use website vacuum cleaner to read source code without interacting with the target : [HTTrack](https://www.httrack.com/page/2/fr/index.html)
 
-<code>sudo apt install webhttrack</code>
+```
+sudo apt install webhttrack
+```
 
-<h1>Google Dorks</h1>
+# Google Dorks
 
 Limit to particular domain and subdomain :  
 
-<code>site:example.org</code>
+```
+site:example.org
+```
 
-<code>site:*.example.org</code>
+```
+site:*.example.org
+```
 
 Limit particular word in url :  
 
-<code>inurl:admin</code>
+```
+inurl:admin
+```
 
-<code>inurl:auth_user_file.txt</code>
+```
+inurl:auth_user_file.txt
+```
 
-<code>inurl:passwd.txt</code>
+```
+inurl:passwd.txt
+```
 
-<code>inurl:login</code>
+```
+inurl:login
+```
 
 Limit particular word in title :  
 
-<code>intitle:index of</code>
+```
+intitle:index of
+```
 
 Limit particular type of file :  
 
-<code>filetype:xlsx</code>
+```
+filetype:xlsx
+```
 
-<h1>Search Engines</h1>
+# Search Engines
 
-<code>theHarvester -d example.org -b google,linkedin</code>
+```
+theHarvester -d example.org -b google,linkedin
+```
 
 Look a next version of website [Wayback Machine](https://archive.org)
 

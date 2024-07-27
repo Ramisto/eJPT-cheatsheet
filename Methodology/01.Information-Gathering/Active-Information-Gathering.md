@@ -1,10 +1,16 @@
-<h1>Definition</h1>
+# Definition
 Active information gathering, refers to the phase of the assessment where the tester actively interacts with the target system or network to collect data and identify potential vulnerabilities.
 
-<h1>DNS</h1>
+# DNS
 
-<code>dnsrecon -d example.org</code>
+```
+dnsrecon -d example.org
+```
 
-<code>dnsenum example.org</code>
+```
+dnsenum example.org
+```
 
-<code>sublist3r -d example.org</code>
+```
+sublist3r -d example.org
+```
