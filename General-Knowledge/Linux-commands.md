@@ -1,12 +1,16 @@
-<p>To get a one-line manual page description :</p> 
+To get a one-line manual page description :
 
-<code>:~$ whatis cat</code>
+```
+whatis cat
+```
+To get a one-line all manual page description with key word :
 
+```
+whatis -r ls
+```
 
-<p>To get a one-line all manual page description with key word :</p>
+Obtain statistics on all active connections :
 
-<code>:~$ whatis -r ls</code>
-
-<p>Obtain statistics on all active connections :</p>
-
-<code>:~$ netstat -antp</code>
+```
+netstat -antp
+```

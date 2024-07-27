@@ -33,33 +33,25 @@
 
 # CMMC (Cybersecurity Maturity Model Certification)
 
-<ul>
-    <li>A training, certification, and third party assessment program of cybersecurity in the United States government Defense Industrial Base</li>
-    <li>Requires a third party assessor to verify the cybersecurity maturation level</li>
-    <li>5 levels</li>
-</ul>
+- A training, certification, and third party assessment program of cybersecurity in the United States government Defense Industrial Base
+- Requires a third party assessor to verify the cybersecurity maturation level
+- 5 levels
 
-<h1>ASD Essential 8</h1>
+# ASD Essential 8
 
 Australian Cyber Security Centre Essential Eight Maturity Model
 
-<ul>
-    <li>Help organisations protect themselves against various cyber threats</li>
-    <li>Designed to protect Microsoft Windows-based internet-connected networks</li>
-    <li>4 maturity levels</li>
-</ul>
+- Help organisations protect themselves against various cyber threats
+- Designed to protect Microsoft Windows-based internet-connected networks
+- 4 maturity levels
 
-<ul>
-<li>Essential 8 Security Controls :</li>
-    <ul>
-        <li>Prevent attacks (Application control, Patch applications, Configure Microsoft office macros, User application hardening)</li>
-        <li>Limits extent of attacks (Restrict admin privileges, Patch operating system, multi-factor authentification)</li>
-        <li>Recovers data & system availability (Daily backups)</li>
-    </ul>
-</ul>
+- Essential 8 Security Controls :
+    - Prevent attacks (Application control, Patch applications, Configure Microsoft office macros, User application hardening)
+    - Limits extent of attacks (Restrict admin privileges, Patch operating system, multi-factor authentification)
+    - Recovers data & system availability (Daily backups)
 
-<h1>Tools</h1>
+# Tools
 
-<a href="https://public.cyber.mil/stigs/scap/">Security Content Automation Protocol (SCAP) Compliance Checker</a>
+- [Security Content Automation Protocol (SCAP) Compliance Checker](https://public.cyber.mil/stigs/scap/)
 
-<a href="https://public.cyber.mil/stigs/srg-stig-tools/">Security Technical Implementation Guides (STIGs) Viewer 3.3</a>
+- [Security Technical Implementation Guides (STIGs) Viewer 3.3](https://public.cyber.mil/stigs/srg-stig-tools/)

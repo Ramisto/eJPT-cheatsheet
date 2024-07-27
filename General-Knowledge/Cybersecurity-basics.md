@@ -34,8 +34,8 @@ Its aim is to anticipate, assess and manage potential risks in order to minimize
 
 # Sources
 
-[CIA Triade - Fortinet](https://www.fortinet.com/fr/resources/cyberglossary/cia-triad#:~:text=La%20triade%20CIA%20fournit%20une,%3A%20confidentialit%C3%A9%2C%20int%C3%A9grit%C3%A9%20et%20disponibilit%C3%A9.)
+- [CIA Triade - Fortinet](https://www.fortinet.com/fr/resources/cyberglossary/cia-triad#:~:text=La%20triade%20CIA%20fournit%20une,%3A%20confidentialit%C3%A9%2C%20int%C3%A9grit%C3%A9%20et%20disponibilit%C3%A9.)
 
-[What is Defense in Depth? - Fortinet](https://www.fortinet.com/resources/cyberglossary/defense-in-depth#:~:text=Defense%20in%20depth%20is%20a,are%20stopped%20along%20the%20way.)
+- [What is Defense in Depth? - Fortinet](https://www.fortinet.com/resources/cyberglossary/defense-in-depth#:~:text=Defense%20in%20depth%20is%20a,are%20stopped%20along%20the%20way.)
 
-[Qu'est-ce que le risk management ? - Ecole de Guerre economique](https://www.ege.fr/actualites/quest-ce-que-le-risk-management)
+- [Qu'est-ce que le risk management ? - Ecole de Guerre economique](https://www.ege.fr/actualites/quest-ce-que-le-risk-management)
