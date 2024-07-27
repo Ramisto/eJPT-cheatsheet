@@ -1,4 +1,4 @@
-<h1>Options</h1>
+# Options
 
 \-f : The -f option causes the requested scan (including host discovery scans) to use tiny fragmented IP packets. The idea is to split up the TCP header over several packets to make it harder for packet filters, intrusion detection systems, and other annoyances to detect what you are doing.
 
@@ -14,58 +14,58 @@
 
 ACK packets for detect filtered or unfiltered ports :  
 
-```bash
+```
 nmap -sA -p80,445,3389 <target>
 ```
 
-<h1>IDS Evasion</h1>
+# IDS Evasion
 
 Zombie scan :
 
-```bash
+```
 nmap -Pn -sI <zombie-ip> <target> -v
 ```
 
 Fragment packets :
 
-```bash
+```
 nmap -f -p- <target>
 ```
 
 Decoy scan with other IPs :
 
-```bash
+```
 nmap -D <decoy-ip> -p- <target>
 ```
 
 Source port scan :
 
-```bash
+```
 nmap -g <source-port> -p- <target>
 ```
 
 Sneaky mode :
 
-```bash
+```
 nmap -T1 <target>
 ```
 
 Paranoid mode :
 
-```bash
+```
 nmap -T0 <target>
 ```
 
-<h1>Optimizing nmap</h1>
+# Optimizing nmap
 
 Specify 30m to ensure that Nmap doesn't waste more than half an hour on a single host :  
 
-```bash
+```
 nmap --host-timeout 30m <target>
 ```
 
-A --scan-delay of 1s will keep Nmap at that slow rate :
+A ``--scan-delay`` of 1s will keep Nmap at that slow rate :
 
-```bash
+```
 nmap --scan-delay 1s <target>
 ```
