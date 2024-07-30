@@ -62,12 +62,3 @@
             <li><a href="./General-Knowledge/Vulnerability-assessment.md">Vulnerability Assessment</a></li>
         </ul>
 </details>
-
-<details>
-    <summary><strong>07.Tools</strong></summary>
-        <ul>
-            <li><a href="./Tools/For-Enumeration.md">For Compliance</a></li>
-            <li><a href="./Tools/For-Enumeration.md">For Enumeration</a></li>
-            <li><a href="./Tools/For-Exploitation.md">For Exploitation</a></li>
-        </ul>
-</details>
