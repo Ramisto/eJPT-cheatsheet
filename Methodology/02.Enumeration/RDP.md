@@ -16,3 +16,12 @@ msf6 > set RHOSTS <target>
 msf6 > set RPORT <port>
 msf6 > run
 ```
+
+## CVE-2019-0708 (BlueKeep)
+
+```
+msfconsole
+msf6 > use auxiliary/scanner/rdp/cve_2019_0708_bluekeep
+msf6 > set RHOSTS <target>
+msf6 > run
+```
