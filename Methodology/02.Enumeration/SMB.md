@@ -155,3 +155,9 @@ enum4linux -i <target>
 ```
 enum4linux -r <target>
 ```
+
+# EternalBlue SMB
+
+```
+nmap -sV --script=smb-vuln-ms17-010 -p445 <target>
+```
