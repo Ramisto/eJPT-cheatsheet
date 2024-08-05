@@ -78,7 +78,7 @@ smbmap -u administrator -p smbserver_771 --upload '/root/backdoor' 'C$\backdoor'
 smbmap -u administrator -p smbserver_771 --download 'C$\flag.txt' -H <target>
 ```
 
-# Metasploit
+# Metasploit framework
 
 ```
 msf6 > use auxiliary/scanner/smb/smb_version
