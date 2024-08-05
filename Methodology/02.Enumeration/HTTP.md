@@ -20,7 +20,7 @@ nmap -sV --script=http-headers --script-args http-methods.url-path=/webdav/ -p80
 nmap -sV --script=http-webdav-scan --script-args http-methods.url-path=/webdav/ -p80 <target>
 ```
 
-# Metasploit
+# Metasploit framework
 
 ```
 msf6 > use auxiliary/scanner/http/http_version
