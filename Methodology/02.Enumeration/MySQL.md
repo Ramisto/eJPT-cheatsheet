@@ -28,7 +28,7 @@ nmap --script=mysql-dump-hashes --script-args="username='root',password=''" -p 3
 nmap --script=mysql-audit --script-args="mysql-audit.username='root',mysql-audit.pass='',mysql-audit.filename='/usr/share/nmap/nselib/data/mysql-cis.audit'" -p 3306 <target>
 ```
 
-# Metasploit
+# Metasploit framework
 
 ```
 msf6 > use auxiliary/scanner/mysql/mysql_writable_dirs
