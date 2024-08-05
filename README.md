@@ -29,20 +29,22 @@
     <summary><strong>03.Exploitation</strong></summary>
         <ul>
             <li><a href="./Methodology/03.Exploitation/CVE/">CVE</a></li>
-            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/FTP.md">FTP</a></li>
-            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/MSSQL.md">MSSQL</a></li>
-            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/MySQL.md">MySQL</a></li>
-            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/SSH.md">SSH</a></li>
-            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/Microsoft-IIS-WebDAV.md">Microsoft-IIS-WebDAV</a></li>
-            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/RDP.md">RDP</a></li>
-            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/SMB.md">SMB</a></li>
-            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/WinRM.md">WinRM</a></li>
+            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/FTP.md">Linux - FTP</a></li>
+            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/MSSQL.md">Linux - MSSQL</a></li>
+            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/MySQL.md">Linux - MySQL</a></li>
+            <li><a href="./Methodology/03.Exploitation/Linux-vulnerabilities/SSH.md">Linux - SSH</a></li>
+            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/Microsoft-IIS-WebDAV.md">Windows - Microsoft-IIS-WebDAV</a></li>
+            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/RDP.md">Windows - RDP</a></li>
+            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/SMB.md">Windows - SMB</a></li>
+            <li><a href="./Methodology/03.Exploitation/Windows-vulnerabilities/WinRM.md">Windows - WinRM</a></li>
         </ul>
 </details>
 
 <details>
     <summary><strong>04.Post-Exploitation</strong></summary>
         <ul>
+            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Bypassing-UAC.md">Windows - Windows Kernel Exploits</a></li>
+            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Bypassing-UAC.md">Windows - Bypassing UAC</a></li>
         </ul>
 </details>
 
