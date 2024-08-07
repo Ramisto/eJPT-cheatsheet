@@ -45,6 +45,7 @@
         <ul>
             <li><a href="./Methodology/04.Post-Exploitation/Credential-Dumping/Windows-Credential-Dumping/Windows-Password-Hashes.md">Windows Credential Dumping - Password Hashes</a></li>
             <li><a href="./Methodology/04.Post-Exploitation//Credential-Dumping/Windows-Credential-Dumping/Searching-For-Passwords-in-Windows-Configuration-Files.md">Windows Credential Dumping - Windows Configuration Files</a></li>
+            <li><a href="./Methodology/04.Post-Exploitation//Credential-Dumping/Windows-Credential-Dumping/Dumping-Hashes-With-Mimikatz.md">Windows Credential Dumping - Dumping Hashes with Mimikatz</a></li>
             <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-File-System-Vulnerabilities/Alternate-Data-Streams.md">Windows File System Vulnerabilities - Alternate Data Streams (ADS)</a></li>
             <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Bypassing-UAC.md">Windows Privilege Escalation - Bypassing UAC</a></li>
             <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Windows-Access-Tokens.md">Windows Privilege Escalation - Access Tokens</a></li>
