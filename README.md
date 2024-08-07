@@ -43,8 +43,11 @@
 <details>
     <summary><strong>04.Post-Exploitation</strong></summary>
         <ul>
-            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Bypassing-UAC.md">Windows - Windows Kernel Exploits</a></li>
-            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Bypassing-UAC.md">Windows - Bypassing UAC</a></li>
+            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Credential-Dumping/Windows-Password-Hashes.md">Windows Credential Dumping - Password Hashes</a></li>
+            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-File-System-Vulnerabilities/Alternate-Data-Streams.md">Windows File System Vulnerabilities - Alternate Data Streams (ADS)</a></li>
+            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Bypassing-UAC.md">Windows Privilege Escalation - Bypassing UAC</a></li>
+            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Windows-Access-Tokens.md">Windows Privilege Escalation - Access Tokens</a></li>
+            <li><a href="./Methodology/04.Post-Exploitation/Privilege-Escalation/Windows-Privilege-Escalation/Windows-Kernel-Exploits.md">Windows Privilege Escalation - Kernel Exploits</a></li>
         </ul>
 </details>
 
