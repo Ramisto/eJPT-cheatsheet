@@ -48,34 +48,10 @@ nmap --script=smb-server-stats -p445 <target>
 nmap --script=smb-enum-sessions --script-args smbusername=administrator,smbpassword=smbserver_771 -p445 <target>
 ```
 
-# SMBmap
+# EternalBlue SMB
 
 ```
-smbmap -u administrator -p smbserver_771 -H <target>
-```
-
-```
-smbmap -u administrator -p smbserver_771 -d . -H <target>
-```
-
-```
-smbmap -u administrator -p smbserver_771 -L -H <target>
-```
-
-```
-smbmap -u administrator -p smbserver_771 -r 'C$' -H <target>
-```
-
-```
-smbmap -u administrator -p smbserver_771 -x 'ipconfig' -H <target>
-```
-
-```
-smbmap -u administrator -p smbserver_771 --upload '/root/backdoor' 'C$\backdoor' -H <target>
-```
-
-```
-smbmap -u administrator -p smbserver_771 --download 'C$\flag.txt' -H <target>
+nmap -sV --script=smb-vuln-ms17-010 -p445 <target>
 ```
 
 # Metasploit framework
@@ -100,12 +76,6 @@ msf6 > use auxiliary/scanner/smb/pipe_auditor
 
 ```
 nmblookup -A <target>
-```
-
-# SMBclient
-
-```
-smbclient -L -N <target>
 ```
 
 # RPCclient
@@ -156,8 +126,3 @@ enum4linux -i <target>
 enum4linux -r <target>
 ```
 
-# EternalBlue SMB
-
-```
-nmap -sV --script=smb-vuln-ms17-010 -p445 <target>
-```
