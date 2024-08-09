@@ -8,3 +8,9 @@ nmap --script=ftp-syst -p 21 <target>
 nmap --script=tftp-enum -p 21 <target>
 nmap --script=ftp-vuln-cve2010-4221 -p 21 <target>
 ```
+
+# Exploit-DB
+
+```
+searchsploit ProFTPD
+```
