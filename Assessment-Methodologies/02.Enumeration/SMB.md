@@ -44,9 +44,6 @@ nmap --script=smb-enum-services -p445 <target>
 nmap --script=smb-server-stats -p445 <target>
 ```
 
-```
-nmap --script=smb-enum-sessions --script-args smbusername=administrator,smbpassword=smbserver_771 -p445 <target>
-```
 
 # EternalBlue SMB
 
@@ -66,10 +63,6 @@ msf6 > use auxiliary/scanner/smb/smb2
 
 ```
 msf6 > use auxiliary/scanner/smb/smb_enumshares
-```
-
-```
-msf6 > use auxiliary/scanner/smb/pipe_auditor
 ```
 
 # NMBlookup
